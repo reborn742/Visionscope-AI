@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# build output of the server bundle
+server.js
+# local secrets / keys / archives
+*.pem
+*.key
+*.zip

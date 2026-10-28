@@ -1,0 +1,8 @@
+{
+  "name": "Remix VisionScope AI — Real-Time Computer Vision Studio",
+  "description": "Interactive browser-based object detection studio powered by TensorFlow.js and COCO-SSD for uploaded images and live webcam video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
